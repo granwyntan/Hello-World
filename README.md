@@ -1,2 +1,2 @@
 # Hello-World
-Hello world in multiple languages
+Hello world in multiple programming languages
